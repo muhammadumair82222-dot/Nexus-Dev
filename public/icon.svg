@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#dc2626"/>
+  <!-- Hanger and Garment Silhouette in Pure White -->
+  <path d="M256 96 C240 96 230 110 230 126 C230 144 246 156 256 168 L120 232 C104 240 96 256 104 272 L128 320 C136 336 154 344 170 336 L216 312 V416 C216 428 226 438 238 438 H274 C286 438 296 428 296 416 V312 L342 336 C358 344 376 336 384 320 L408 272 C416 256 408 240 392 232 L256 168 Z" fill="#ffffff"/>
+  <!-- Red stitching detail lines -->
+  <path d="M160 260 L256 310 L352 260" stroke="#dc2626" stroke-width="8" stroke-dasharray="16 12" stroke-linecap="round"/>
+  <!-- Barcode scanner grid overlay -->
+  <path d="M190 350 H322" stroke="#dc2626" stroke-width="6" stroke-linecap="round"/>
+  <path d="M210 374 H302" stroke="#dc2626" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="256" cy="120" r="16" stroke="#ffffff" stroke-width="8" fill="none"/>
+</svg>

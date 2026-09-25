@@ -1,0 +1,6 @@
+{
+  "name": "StitchFlow Garments POS & ERP",
+  "description": "Production-ready Garments Shop Management and POS system with dual-engine offline/online synchronization, variant matrix inventory, barcode scanning, thermal receipt printing, and complete retail accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
